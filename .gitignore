@@ -1,0 +1,8 @@
+
+build/
+
+dirt\.egg-info/
+
+dirt/__pycache__/
+
+*.so
